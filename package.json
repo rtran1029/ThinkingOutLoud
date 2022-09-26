@@ -1,0 +1,25 @@
+{
+  "name": "thinkingoutloud",
+  "version": "1.0.0",
+  "description": "Social Network for Deep Thoughts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtran1029/ThinkingOutLoud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtran1029/ThinkingOutLoud/issues"
+  },
+  "homepage": "https://github.com/rtran1029/ThinkingOutLoud#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.4"
+  }
+}
